@@ -17,3 +17,10 @@ h2 {
     font-size: 25px;
 }
 
+.main-text {
+    text-align: right;
+}
+
+#authortext {
+    font-size: 22px;
+}
