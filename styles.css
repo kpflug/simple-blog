@@ -1,6 +1,9 @@
-body {
+* {
     margin: 0px;
     padding: 0px;
+}
+
+body {
     font-family: Helvetica, Arial;
     font-size: 18px;
 }
