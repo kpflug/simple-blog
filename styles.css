@@ -1,6 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
+    /* box-sizing: border-box; */
 }
 
 body {
@@ -21,7 +22,7 @@ h2 {
 }
 
 .main-text {
-    text-align: right;
+    text-align: left;
 }
 
 #authortext {
