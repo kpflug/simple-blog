@@ -39,13 +39,13 @@ h2 {
 }
 
 .blog-post {
-
+    background-color: gray;
 }
 
 .other-posts {
-
+    background-color: yellow;
 }
 
 .author-section {
-    
+    background-color: red;
 }
