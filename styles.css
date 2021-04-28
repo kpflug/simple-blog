@@ -82,6 +82,7 @@ h2 {
 #authorImage {
     max-width: 100px;
     height: auto;
+    border-radius: 50%;
 }
 
 
