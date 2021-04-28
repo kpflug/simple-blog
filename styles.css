@@ -69,11 +69,22 @@ h2 {
     /* float: right; */
 }
 
+.other {
+    margin-bottom: 40px;
+}
+
 .author-section {
     /* background-color: red; */
     border-top: 1px solid gray;
     padding-top: 20px;
 }
+
+#authorImage {
+    max-width: 100px;
+    height: auto;
+}
+
+
 
 /* CSS Flexbox Resources*/
 /* https://css-tricks.com/snippets/css/a-guide-to-flexbox/*/
