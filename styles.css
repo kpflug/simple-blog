@@ -92,7 +92,8 @@ h2 {
 }
 
 #htmlcssimage {
-    
+    max-width: auto;
+    height: 150px;
 }
 
 
