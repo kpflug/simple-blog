@@ -17,14 +17,14 @@ body {
 }
 
 h1, h2 {
+    font-family: 'Playfair Display', serif;
     color: black;
 }
 
 h1 {
+    color: #ff4d37;
     font-size: 40px;
     margin-bottom: 20px;
-    font-weight: 500;
-}
 
 h2 {
     font-size: 25px;
