@@ -53,6 +53,7 @@ h3 {
 .main-text {
     text-align: left;
     margin-bottom: 20px;
+    color:gray;
 }
 
 .container {
@@ -94,6 +95,7 @@ h3 {
 .sidebar-text {
     padding-bottom: 30px;
     border-bottom: 1px solid gray;
+    color:gray; 
 }
 
 .author-section {
