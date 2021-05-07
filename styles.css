@@ -54,6 +54,7 @@ h3 {
     text-align: left;
     margin-bottom: 20px;
     color:gray;
+    /* line-height: 30px; */
 }
 
 .container {
@@ -96,6 +97,8 @@ h3 {
     padding-bottom: 30px;
     border-bottom: 1px solid gray;
     color:gray; 
+    line-height: 16pt;
+    font-size: 15px;
 }
 
 .author-section {
