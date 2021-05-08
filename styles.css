@@ -54,7 +54,8 @@ h3 {
     text-align: left;
     margin-bottom: 20px;
     color:gray;
-    /* line-height: 30px; */
+    line-height: 25px;
+    font-size: 15px;
 }
 
 .container {
@@ -87,6 +88,13 @@ h3 {
 
 .other {
     margin-bottom: 20px;
+}
+
+#authorImageSidebar {
+    max-width: 250px;
+    height: auto;
+    margin-top: 5px;
+    margin-bottom: 40px;
 }
 
 #thisJustIn {
