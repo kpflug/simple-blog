@@ -50,9 +50,14 @@ h3 {
     margin-bottom: 10px;
 }
 
-#fireIcon {
-    max-width: 30px;
+.fa-gripfire {
+    display: inline-flex;
+    color: red;
 }
+
+/* #fireIcon {
+    max-width: 30px;
+} */
 
 #trendingThisWeek {
     font-size: 30px;
